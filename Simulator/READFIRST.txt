@@ -1,0 +1,11 @@
+Preliminary instructions (Windows):
+
+In the main class do
+
+public static String directory="C:/Users/USER/Desktop/";
+public static String cqi_event_file_directory=directory+"cqis-events/cqi_event-";
+
+Replace USER by username.
+Place the 'cqis-events' folder in the Desktop environment.
+
+More details about the simulator can be found in the 'Simulator_info.pdf' file.
